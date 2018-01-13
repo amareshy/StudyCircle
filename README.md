@@ -1,2 +1,2 @@
 # StudyCircle
-StudyCircle is colection of datastructure examples
+StudyCircle is colection of some datastructure and concurrency examples
